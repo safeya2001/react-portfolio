@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Navbar, Nav, Container } from 'react-bootstrap';
 
-// Import all individual components
 import Home from './components/Home';
 import Services from './components/Services';
 import Skills from './components/Skills';
@@ -11,7 +10,7 @@ import Experience from './components/Experience';
 import Projects from './components/Projects';
 import Testimonials from './components/Testimonials';
 import ContactUs from './components/ContactUs';
-import './index';
+import './index.css'; // Corrected this line from './index' to './styles.css'
 
 function App() {
     const [page, setPage] = useState('home');
