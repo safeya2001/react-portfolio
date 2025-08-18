@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.ad4bbdcc.css",
-    "main.js": "/react-portfolio/static/js/main.cac52c66.js",
+    "main.js": "/react-portfolio/static/js/main.0bffff9f.js",
     "static/js/453.ba70f163.chunk.js": "/react-portfolio/static/js/453.ba70f163.chunk.js",
     "static/media/NewsPaper.png": "/react-portfolio/static/media/NewsPaper.fa9710801cfda96f5ae7.png",
     "static/media/my_website.png": "/react-portfolio/static/media/my_website.4ff8e9bd2cad91070a63.png",
     "index.html": "/react-portfolio/index.html",
     "main.ad4bbdcc.css.map": "/react-portfolio/static/css/main.ad4bbdcc.css.map",
-    "main.cac52c66.js.map": "/react-portfolio/static/js/main.cac52c66.js.map",
+    "main.0bffff9f.js.map": "/react-portfolio/static/js/main.0bffff9f.js.map",
     "453.ba70f163.chunk.js.map": "/react-portfolio/static/js/453.ba70f163.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad4bbdcc.css",
-    "static/js/main.cac52c66.js"
+    "static/js/main.0bffff9f.js"
   ]
 }
