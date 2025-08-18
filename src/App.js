@@ -10,7 +10,7 @@ import Experience from './components/Experience';
 import Projects from './components/Projects';
 import Testimonials from './components/Testimonials';
 import ContactUs from './components/ContactUs';
-import './index.css'; // Corrected this line from './index' to './styles.css'
+import './index.css'; 
 
 function App() {
     const [page, setPage] = useState('home');
